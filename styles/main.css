@@ -1,0 +1,24 @@
+// Try not to add stuff here
+// Windi probably has what you need: https://windicss.org/utilities/
+// You can add aliases in ../windi.config.ts > shortcuts
+
+:root {
+  @apply font-serif font-light box-border bg-black text-white h-full;
+  font-size: 16px;
+}
+
+body, [data-reactroot] {
+  @apply h-full;
+}
+
+body {
+  @apply text-base;
+}
+
+* {
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Times Newer Roman';
+  src: url('../public/fonts/TimesNewerRoman-Regular.otf');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'Times Newer Roman';
+  src: url('../public/fonts/TimesNewerRoman-Italic.otf');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Times Newer Roman';
+  src: url('../public/fonts/TimesNewerRoman-Bold.otf');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Times Newer Roman';
+  src: url('../public/fonts/TimesNewerRoman-BoldItalic.otf');
+  font-weight: 700;
+  font-style: italic;
+}

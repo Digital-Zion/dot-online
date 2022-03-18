@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Clash';
+  src: url('../public/fonts/ClashGrotesk-Variable.woff2') format('woff2');
+  font-weight: 200 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Clash';
+  src: url('../public/fonts/ClashDisplay-Variable.woff2') format('woff2');
+  font-weight: 200 700;
+  font-style: italic;
+}

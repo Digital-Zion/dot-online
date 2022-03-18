@@ -1,0 +1,18 @@
+{
+  "extends": "@tsconfig/next/tsconfig.json",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "preserveConstEnums": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "strict": true,
+    "baseUrl": "./",
+    "paths": {
+      "~/*": ["*"]
+    }
+  },
+  "include": ["next-env.d.ts", "global.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Erode';
+  src: url('../public/fonts/Erode-Variable.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Erode';
+  src: url('../public/fonts/Erode-VariableItalic.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: italic;
+}

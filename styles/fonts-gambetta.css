@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Gambetta';
+  src: url('../public/fonts/Gambetta-Variable.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gambetta';
+  src: url('../public/fonts/Gambetta-VariableItalic.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: italic;
+}

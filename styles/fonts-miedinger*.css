@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Miedinger*';
+  src: url('../public/fonts/Miedinger*-Book.otf');
+  font-weight: 350;
+}
+@font-face {
+  font-family: 'Miedinger*';
+  src: url('../public/fonts/Miedinger*-Book-Italic.otf');
+  font-weight: 350;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Miedinger*';
+  src: url('../public/fonts/Miedinger*-Bold.otf');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'Miedinger*';
+  src: url('../public/fonts/Miedinger*-Bold-Italic.otf');
+  font-weight: 700;
+  font-style: italic;
+}

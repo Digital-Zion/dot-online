@@ -1,0 +1,81 @@
+.h1 {
+  @apply font-sans !leading-[0.75] font-semibold italic text-5xl sm:text-6xl mt-24 mb-4;
+}
+
+.h2 {
+  @apply font-sans !leading-[0.75] font-medium italic text-4xl sm:text-4xl mt-16 mb-4;
+}
+
+.h3 {
+  @apply font-sans !leading-[0.75] font-medium text-2xl mt-10 mb-4;
+}
+
+.h4 {
+  @apply font-sans !leading-[0.75] font-normal mt-8 mb-4;
+}
+
+.h5 {
+  @apply font-sans !leading-[0.75] font-semibold italic uppercase text-sm mt-6 mb-4;
+}
+
+.h6 {
+  @apply font-sans !leading-[0.75] uppercase text-xs mt-6 mb-4;
+}
+
+.p {
+  @apply my-4;
+}
+
+.a {
+  @apply inline-block font-sans font-normal italic underline transform transition-transform hover:scale-105;
+}
+
+.ol {
+  @apply my-1em pl-10 list-decimal;
+}
+
+.ul {
+  @apply my-1em pl-10 list-disc;
+}
+
+.markdown {
+  h1 {
+    @apply block h1;
+  }
+
+  h2 {
+    @apply block h2;
+  }
+
+  h3 {
+    @apply block h3;
+  }
+
+  h4 {
+    @apply block h4;
+  }
+
+  h5 {
+    @apply block h5;
+  }
+
+  h6 {
+    @apply block h6;
+  }
+
+  p {
+    @apply block p;
+  }
+
+  a {
+    @apply a;
+  }
+
+  ol {
+    @apply block ol;
+  }
+
+  ul {
+    @apply block ul;
+  }
+}
