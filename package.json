@@ -1,5 +1,5 @@
 {
-  "name": "digital-zion-dot-online",
+  "name": "@digital-zion/dot-online",
   "repository": "https://github.com/Digital-Zion/dot-online.git",
   "scripts": {
     "dev": "next",
