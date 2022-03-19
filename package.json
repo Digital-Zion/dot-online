@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.16.1",
+    "@formspree/cli": "^0.9.6",
     "@iconify-json/mdi": "^1.1.1",
     "@next/eslint-plugin-next": "^12.1.0",
     "@svgr/core": "^6.2.1",
