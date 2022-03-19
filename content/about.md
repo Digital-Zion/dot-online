@@ -4,7 +4,7 @@ Platforms like YouTube, Patreon, Spotify, Instagram (Meta), TikTok, and more are
 
 To top all of these things off, we don’t control them at all despite being the reason they exist...
 
-That's why [400000000](https://400000000.co) and their collective of artists are partnering with a design and development agency called [**Sanctuary Computer**](https://www.sanctuary.computer) to build [cooperative](https://en.wikipedia.org/wiki/Platform_cooperative), [decentralized](https://en.wikipedia.org/wiki/Decentralization#Technological_decentralization), and [open-source](https://en.wikipedia.org/wiki/Open_source) alternatives that synthesize the best features of all those platforms, and that we can ([democratically](https://en.wikipedia.org/wiki/Direct_democracy)) control together too.
+That's why [400000000](https://400000000.co) and their collective of artists are partnering with a design and development agency called **[Sanctuary Computer](https://www.sanctuary.computer)** to build [cooperative,](https://en.wikipedia.org/wiki/Platform_cooperative) [decentralized,](https://en.wikipedia.org/wiki/Decentralization#Technological_decentralization) and [open-source](https://en.wikipedia.org/wiki/Open_source) alternatives that synthesize the best features of all those platforms, and that we can [(democratically)](https://en.wikipedia.org/wiki/Direct_democracy) control together too.
 
 _With no crypto schemes or gimmicks either..._
 
