@@ -37,6 +37,9 @@ export default defineConfig({
     include: ['**/*.{tsx,jsx,css}'],
   },
   plugins: [
+    // eslint-disable-next-line @typescript-eslint/no-var-requires
+    require('@windicss/plugin-animations')({}),
+
     // https://windicss.org/plugins/community/heropatterns.html
     // eslint-disable-next-line @typescript-eslint/no-var-requires
     require('@windicss/plugin-heropatterns')({}),

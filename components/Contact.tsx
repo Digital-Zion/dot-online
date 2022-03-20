@@ -68,7 +68,7 @@ export const Contact = () => {
       }}
     >
       {({ errors, isSubmitting }) => (
-        <Form className='flex flex-col space-y-4 children:not-lastmax-w-[49ch] markdown'>
+        <Form className='flex flex-col space-y-4'>
           <Field
             name='name'
             autoComplete='name'
@@ -117,7 +117,18 @@ export const Contact = () => {
                 value={createdAt ? 'We got your message' : 'Submit'}
               />
             )}
-            <div className='flex space-x-4'>
+            <div className='flex space-x-4 children:(inline-flex items-center space-x-1 font-sans italic uppercase font-medium)'>
+              <a
+                className='animate-animated animate-infinite animate-pulse'
+                href='https://opencollective.com/digitalzion'
+              >
+                <IconOpenCollective />
+                <span className='text-sm'>Donate</span>
+              </a>
+              <a href='https://github.com/Digital-Zion'>
+                <MdiGithub />
+                <span className='text-sm'>Code</span>
+              </a>
               {/* <a
                 className='transform transition-transform hover:scale-105'
                 href='https://twitter.com/400_000_000'
@@ -130,10 +141,7 @@ export const Contact = () => {
               >
                 <MdiInstagram />
               </a> */}
-              <a
-                className='transform transition-transform hover:scale-105'
-                href='https://400000000.co'
-              >
+              <a href='https://400000000.co'>
                 <Icon400Million />
               </a>
             </div>
