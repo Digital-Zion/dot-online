@@ -1,4 +1,4 @@
-## Aligned projects
+## Aligned Projects
 
 - [Resonate](https://resonate.is)
 - [PeerTube](https://joinpeertube.org)
