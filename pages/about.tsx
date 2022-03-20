@@ -24,11 +24,11 @@ const AboutPage: NextPage = () => (
         </div>
       </motion.a>
     </Link>
-    <div className='w-max-content max-w-full space-y-20 sm:space-y-28'>
+    <div className='w-max-content max-w-full space-y-16 sm:space-y-24'>
       <section className='markdown'>
         <Markdown>{contentAbout}</Markdown>
       </section>
-      <section className='space-y-2 sm:space-y-6'>
+      <section className='space-y-2 sm:space-y-4'>
         <div className='markdown'>
           <Markdown>{contentContact}</Markdown>
         </div>
