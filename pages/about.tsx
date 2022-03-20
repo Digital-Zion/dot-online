@@ -6,6 +6,7 @@ import Markdown from 'react-markdown'
 import { Contact, Layout } from '~/components'
 import contentAbout from '~/content/about.md'
 import contentContact from '~/content/contact.md'
+import contentFooter from '~/content/footer.md'
 
 const AboutPage: NextPage = () => (
   <Layout
@@ -33,6 +34,11 @@ const AboutPage: NextPage = () => (
         </div>
         <Contact />
       </section>
+      {!!contentFooter && (
+        <section className='markdown'>
+          <Markdown>{contentFooter}</Markdown>
+        </section>
+      )}
     </div>
   </Layout>
 )

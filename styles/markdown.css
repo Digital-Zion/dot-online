@@ -26,6 +26,10 @@
   @apply my-4;
 }
 
+.strong {
+  @apply font-semibold;
+}
+
 .a {
   @apply inline-block font-sans font-normal italic underline transform transition-transform hover:scale-105;
 }
@@ -67,6 +71,10 @@
     @apply block p;
   }
 
+  strong {
+    @apply strong;
+  }
+
   a {
     @apply a;
   }
@@ -77,5 +85,9 @@
 
   ul {
     @apply block ul;
+  }
+
+  img {
+    @apply w-full h-auto;
   }
 }

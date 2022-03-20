@@ -1,3 +1,3 @@
 ## Help Us Build Anew
 
-We're showing more soon. Reach out and we'll keep you in the loop.
+[Donate on Open Collective](https://opencollective.com/digitalzion), or reach out and we'll keep you in the loop.
