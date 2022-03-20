@@ -2,7 +2,7 @@
 
 - [Resonate](https://resonate.is)
 - [PeerTube](https://joinpeertube.org)
-- [Resonate](https://en.liberapay.com)
+- [Liberapay](https://en.liberapay.com)
 
 -----
 
