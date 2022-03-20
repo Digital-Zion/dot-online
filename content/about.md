@@ -1,6 +1,6 @@
 ## Visions of a New Internet
 
-Platforms like YouTube, Patreon, Spotify, Instagram (Meta), TikTok, and more are only becoming more centralized, more intrusive, more greedy, and more exploitative. They don’t respect our privacy, they’re viewed as marketplaces instead of tools for healthy connection and communication, and the people who make them run are largely inaccessible.
+Platforms like YouTube, Patreon, Spotify, Instagram (Meta), TikTok, and more are only becoming more centralized, more intrusive, more greedy, and more exploitative. They don’t respect our privacy, they’re viewed as competitive marketplaces instead of tools for human connection and communication, and the people who make them run are largely inaccessible.
 
 To top all of these things off, we don’t control them at all despite being the reason they exist...
 
