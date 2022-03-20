@@ -1,5 +1,7 @@
 {
   "globals": {
+    "GlyphDigitalZionInner": true,
+    "GlyphDigitalZionOuter": true,
     "Icon400Million": true,
     "IconOpenCollective": true,
     "MdiGithub": true
