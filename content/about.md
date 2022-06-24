@@ -10,4 +10,4 @@ That's why [**400,000,000**](https://400000000.co) and their collective of artis
 
 It's time for us humans to have an exodus to a _**Digital Zion**_ that we’ve built ourselves – somewhere where _**all**_ of us can actually have a say over the technology that we’re using to communicate with each other.
 
-_We are beginning with a video-streaming platform that has **1)** Patreon features baked into it, and **2)** a more decentralized architecture._
+_We are beginning with a video-streaming platform called [Spex](https://opencollective.com/digitalzion/projects/spex) that has **1)** Patreon features baked into it, and **2)** a more decentralized architecture._
