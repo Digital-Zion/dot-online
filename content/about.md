@@ -12,4 +12,4 @@ It's time for us humans to have an exodus to a _**Digital Zion**_ that we’ve b
 
 Imagine a new social media ecosystem designed around cooperation. Controlled and maintained by all willing to get invested, and in a radically democratic way. Not just one platform controlled by the people for the commons (like [Resonate](https://resonate.is/), for example), but many platforms, all reinforcing each other.
 
-_We are beginning with a video-streaming platform called [Spex](https://opencollective.com/digitalzion/projects/spex) that has **1)** Patreon features baked into it, and **2)** a more decentralized architecture, and **3)** a more modular system for connection and curation._
+_We are beginning with a video-streaming platform called [Spex](https://opencollective.com/digitalzion/projects/spex) that has **1)** Patreon features baked into it, **2)** a more decentralized architecture, and **3)** a more modular system for connection and curation._
