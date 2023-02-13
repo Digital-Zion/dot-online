@@ -6,7 +6,7 @@ They don’t respect our privacy, they’re treated like competitive marketplace
 
 To top it all off, we don’t control them _at all,_ despite being the reason they exist...
 
-That's why [**400,000,000**](https://400000000.co) and their collective of artists are partnering with a design and development agency called [**Sanctuary Computer**](https://www.sanctuary.computer) to build [cooperative,](https://en.wikipedia.org/wiki/Platform_cooperative) [decentralized,](https://en.wikipedia.org/wiki/Decentralization#Technological_decentralization) and [open-source](https://en.wikipedia.org/wiki/Open_source) alternatives that synthesize the best features of all these platforms, and that we can [(democratically)](https://en.wikipedia.org/wiki/Direct_democracy) control together too _(with no crypto schemes or gimmicks either)._
+That's why [**400,000,000's**](https://400000000.co) cooperative design and development agency **400M: D+D** is building [cooperative,](https://en.wikipedia.org/wiki/Platform_cooperative) [decentralized,](https://en.wikipedia.org/wiki/Decentralization#Technological_decentralization) and [open-source](https://en.wikipedia.org/wiki/Open_source) alternatives that synthesize the best features of all these platforms, and that we can [(democratically)](https://en.wikipedia.org/wiki/Direct_democracy) control together too _(with no crypto schemes or gimmicks either)._
 
 It's time for us humans to have an exodus to a _**Digital Zion**_ that we’ve built ourselves – somewhere where _**all**_ of us can actually have a say over the technology that we’re using to communicate with each other.
 
